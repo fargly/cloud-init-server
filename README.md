@@ -1,6 +1,17 @@
 # cloud-initserver
 Serve cloud-init data over http
 
+## Fork Mission Statement
+Provision for NoCloud operations in the context of a container. Cross-platform support will also be pursued.
+
+## cloud-init Endpoint Configuration
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consectetur massa mollis pulvinar scelerisque. Aenean aliquam feugiat diam eu dapibus. Donec quis ullamcorper magna. Morbi a turpis molestie, cursus augue in, blandit nisi. Integer id neque risus. Quisque a velit velit. Mauris ut odio vel libero condimentum convallis eget vitae quam. Nullam auctor tellus convallis, rutrum lacus id, vulputate massa. Donec non diam rutrum, eleifend erat ac, auctor sapien. Aliquam erat volutpat. Proin non felis lacus.
+
+## cloud-init Meta Data Notes
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consectetur massa mollis pulvinar scelerisque. Aenean aliquam feugiat diam eu dapibus. Donec quis ullamcorper magna. Morbi a turpis molestie, cursus augue in, blandit nisi. Integer id neque risus. Quisque a velit velit. Mauris ut odio vel libero condimentum convallis eget vitae quam. Nullam auctor tellus convallis, rutrum lacus id, vulputate massa. Donec non diam rutrum, eleifend erat ac, auctor sapien. Aliquam erat volutpat. Proin non felis lacus.
+
 ## Usage cloud-init-server
 
 ```shell
