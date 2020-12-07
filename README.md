@@ -35,7 +35,7 @@ Example structure
 
 Where `/etc/cloud-init/6a:90:49:79:62:50` contains:
 
-```
+```javascript
 {
     "meta-data":
         {
@@ -53,3 +53,7 @@ Where `/etc/cloud-init/6a:90:49:79:62:50` contains:
             ]
         }
 }
+
+
+
+
